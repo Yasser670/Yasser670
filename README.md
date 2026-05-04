@@ -1,7 +1,11 @@
 <h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Yasser+Ahmed....;Full+Stack+Web+Developer+.NET+%7C+Angular!&center=true&size=22&color=007ACC">
-  </a>
+
+<a href="https://git.io/typing-svg">
+
+<img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Yasser+Ahmed....;Full+Stack+Web+Developer+.NET+%7C+Angular!&center=true&size=18">
+
+</a>
+
 </h1>
 
 <p align="center">
