@@ -63,6 +63,4 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Yasser670&theme=tokyonight" />
 </p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Yasser670&theme=tokyonight&no-frame=true&row=1&column=6" />
-</p>
+
